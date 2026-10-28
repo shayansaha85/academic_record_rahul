@@ -1,0 +1,13 @@
+{
+  "name": "academic-audit-portal",
+  "version": "1.0.0",
+  "description": "Academic Audit & Assessment Portal for Forms AA-00 to AA-18",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test_inprocess.js"
+  },
+  "keywords": ["academic", "audit", "assessment", "forms"],
+  "author": "",
+  "license": "ISC"
+}
